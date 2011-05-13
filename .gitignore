@@ -1,0 +1,14 @@
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+bin
+lib
+include
+develop-eggs
+beta/test.db
+.installed.cfg
