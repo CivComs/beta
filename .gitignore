@@ -10,5 +10,6 @@ bin
 lib
 include
 develop-eggs
+src
 beta/test.db
 .installed.cfg
